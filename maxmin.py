@@ -12,4 +12,3 @@ def find_maxmin(array):
     maxmin.append(max)
     return maxmin
 
-print(find_maxmin([11, 2, 3, 0, -1, 99]))
